@@ -5,3 +5,6 @@ description = "A collection of useful AI resources"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
+
+
+
